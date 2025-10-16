@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_ginger.png"
+  avatar           : "profile.png"
   name             : "Ginger Schmidt"
   pronouns         : "she/her"  
-  bio              : "Ph.D. Candidate in Medical Engineering and Medical Physics"
+  bio              : "Ph.D. Candidate in Medical Engineering & Medical Physics @ Harvard-MIT Health Sciences and Technology"
   location         : "Somerville, MA"
-  employer         : "Harvard-MIT Health Sciences and Technology"
+  employer         : # 
   uri              : # URL
   email            : "gingers@mit.edu" 
 
