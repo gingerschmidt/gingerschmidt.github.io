@@ -14,7 +14,7 @@ Previously, I interned at [Auris Health](https://www.linkedin.com/company/aurish
 
 I earned my undergraduate degree in general engineering from Harvey Mudd College through a unique, interdisciplinary curriculum designed to train us to solve complex, real-world problems. I also "dove" into research on autonomous underwater microgliders in the [Lab for Autonomous and Intelligent Robotics (LAIR)](https://www.lair.hmc.edu/).  
 
-Outside the lab, I battled robots on BattleBots and was the [first woman](https://news.mit.edu/2023/mit-women-historic-battlebots-runs-0208) to win the Giant Nut Trophy in Season 6 with our robot, [Tantrum](https://battlebots.fandom.com/wiki/Tantrum). All episodes are streaming on HBO Max.
+Outside the lab, I competed on BattleBots and was the [first woman](https://news.mit.edu/2023/mit-women-historic-battlebots-runs-0208) to win the Giant Nut Trophy in Season 6 with our robot, [Tantrum](https://battlebots.fandom.com/wiki/Tantrum). All episodes are streaming on HBO Max.
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/Ginger_CV.pdf" class="btn btn--primary">Download my CV as PDF</a>
