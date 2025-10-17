@@ -14,7 +14,6 @@ Previously, I interned at [Auris Health](https://www.linkedin.com/company/aurish
 
 I earned my undergraduate degree in general engineering from Harvey Mudd College though a unique and interdisciplinary curriculum designed to train us how to solve complex, real-world engineering problems. I also "dove" into research on autonomous underwater microgliders in the [Lab for Autonomous and Intelligent Robotics (LAIR)](https://www.lair.hmc.edu/).  
 
-  <br>
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/Ginger_CV.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>
+<br>
+  
+[Download my CV as PDF](/files/Ginger_CV.pdf)
