@@ -3,7 +3,7 @@ title: "Asynchronous optical coherence elastography and directional phase gradie
 collection: publications
 category: manuscripts
 permalink: /publication/asyncOCE
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'We present a high-speed, three-dimensional shear wave imaging method for standard OCT systems that overcomes motion sensitivity and hardware limitations. Using pairs of B-scans and directional phase gradient analysis, our approach rapidly and robustly recovers shear wave fields. Validation in tissue-mimicking phantoms shows accuracy comparable to synchronous imaging and robustness across diverse wave conditions.'
 date: 2025-09-19
 venue: 'Journal of Biomedical Optics (SPIE)'
 paperurl: 'http://academicpages.github.io/files/Asynchronous optical coherence elastography and directional phase gradient analysis.pdf'
