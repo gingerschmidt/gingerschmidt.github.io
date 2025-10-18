@@ -2,6 +2,7 @@
 title: "Coronary Artery Flow Modeling in an Ex-vivo Biorobotic Heart"
 collection: publications
 category: conferences
+excerpt: ""
 date: 2025-06-25
 venue: '2025 IEEE 8th International Conference on Soft Robotics (RoboSoft)'
 paperurl: 'http://gingerschmidt.github.io/files/Coronary Artery Flow Modeling in an Ex-vivo Biorobotic Heart.pdf'
