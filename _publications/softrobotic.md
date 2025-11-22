@@ -2,7 +2,7 @@
 title: "Coronary Artery Flow Modeling in an Ex-vivo Biorobotic Heart"
 collection: publications
 category: conferences
-excerpt: ""
+excerpt: "I collaborated with Ellen Roche’s lab at MIT to develop an ex-vivo biorobotic coronary artery simulator to model spontaneous coronary artery dissection (SCAD) and test percutaneous coronary interventions (PCI). Using a porcine heart with soft robotic actuators and a synchronized flow loop, physiological coronary flow and myocardial motion where accurately replicated, enabling realistic stent deployment and intravascular OCT assessment. I contributed to OCT imaging, signal processing, and validation."
 date: 2025-06-25
 venue: '2025 IEEE 8th International Conference on Soft Robotics (RoboSoft)'
 paperurl: 'http://gingerschmidt.github.io/files/Coronary Artery Flow Modeling in an Ex-vivo Biorobotic Heart.pdf'
