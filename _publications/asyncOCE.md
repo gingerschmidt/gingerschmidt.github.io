@@ -3,7 +3,7 @@ title: "Asynchronous optical coherence elastography and directional phase gradie
 collection: publications
 category: manuscripts
 permalink: /publication/asyncOCE
-excerpt: ''
+excerpt: 'We developed a high-speed, practical method for three-dimensional shear wave imaging using standard optical coherence tomography (OCT) systems already widely availabe in clinics. Our approach reduces motion sensitivity and hardware demands while providing robust measurements of tissue stiffness, as validated in benchtop experiments across variable wave conditions.'
 date: 2025-09-19
 venue: 'Journal of Biomedical Optics (SPIE)'
 paperurl: 'http://gingerschmidt.github.io/files/Asynchronous optical coherence elastography and directional phase gradient analysis.pdf'
