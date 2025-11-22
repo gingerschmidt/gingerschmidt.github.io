@@ -3,7 +3,7 @@ title: "Asynchronous, semi-reverberant elastography"
 collection: publications
 category: manuscripts
 permalink: /publication/semi-reverb
-excerpt: ''
+excerpt: 'We present a method for complete recovery of the harmonic shear wave field in an asynchronous, conventional frame-rate, raster-scanning OCT system by modeling raster-scanning as an amplitude modulation of the displacement field. This technique recovers the entire spatially and temporally coherent complex-valued shear wave field from just two B-scans, while reducing the time scale for sensitivity to motion from minutes to tens of milliseconds. To the best of our knowledge, this work represents the first successful demonstration of reverberant elastography on a human subject in vivo with a conventional frame-rate, raster-scanning OCT system, greatly expanding opportunity for widespread translation.'
 date: 2024-09-10
 venue: 'Optica'
 paperurl: 'http://gingerschmidt.github.io/files/Asynchronous, semi-reverberant elastography.pdf'
