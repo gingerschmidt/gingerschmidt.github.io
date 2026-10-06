@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year PhD candidate in Medical Engineering & Medical Physics through the [Harvard-MIT Health Sciences and Technology](https://hst.mit.edu/) program. I am broadly interested in medical imaging devices, optics, signal processing, and robotics.
+I am a 6th-year PhD candidate in Medical Engineering & Medical Physics through the [Harvard-MIT Health Sciences and Technology](https://hst.mit.edu/) program, graduating in May 2027. I am currently seeking postdoctoral research opportunities. I am broadly interested in medical imaging devices, optics, signal processing, and robotics. My long-term goal is to pursue a faculty position in an engineering department with a dual affiliation at an academic research hospital.
 
 My current research focuses on optical coherence tomography (OCT), elastography, and high-speed micromotor catheters for intravascular coronary artery imaging. I am advised by Professor Néstor Uribe-Patarroyo and Professor Brett E. Bouma at the [Center for Biomedical OCT Research and Translation](https://octresearch.org/) within the [Wellman Center for Photomedicine](https://wellman.massgeneral.org/) at Massachusetts General Hospital (MGH) and Harvard Medical School.
 
