@@ -8,7 +8,7 @@ redirect_from:
 
 I am a PhD candidate in Medical Engineering & Medical Physics through the [Harvard-MIT Health Sciences and Technology](https://hst.mit.edu/) program, with an electrical engineering concentration at MIT. I am graduating in May 2027. I am currently seeking postdoctoral research opportunities.
 
-I am excited about bringing localization, mapping, and navigation methods from robotics into minimally invasive interventions, using pre-operative images (e.g., CT or MRI) as a prior map. By fusing this map in real time with sparse, multi-sensor observations during a procedure (e.g., 2D X-ray, a camera at the tool tip, shape sensors along the tool), these methods can help guide tools such as a bronchoscope to safely and accurately reach a peripheral lung lesion while working alongside the interventionalist physician.
+I am excited about bringing robotic localization, mapping, and navigation techniqueds into minimally invasive interventions, such as by fusing pre-operative CT or MRI as a prior map with sparse intra-operative sensing to help guide bronchoscopes safely to peripheral lung lesions while working alongside the physician.
 
 My current research focuses on optical coherence tomography (OCT), elastography, and custom high-speed micromotor catheters for intravascular coronary artery imaging.  My graduate research has given me first-principles understanding of imaging physics and optics, experience building custom catheter hardware, and close familiarity with clinical workflows. I am advised by Professor Néstor Uribe-Patarroyo and Professor Brett E. Bouma in the [Wellman Center for Photomedicine](https://wellman.massgeneral.org/) at Massachusetts General Hospital (MGH) and Harvard Medical School.
 
