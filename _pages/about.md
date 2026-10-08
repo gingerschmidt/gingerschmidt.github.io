@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Medical Engineering & Medical Physics through the [Harvard-MIT Health Sciences and Technology](https://hst.mit.edu/) program, with an electrical engineering concentration at MIT. I am graduating in May 2027 and am currently seeking postdoctoral research opportunities.
+I am a PhD candidate in Medical Engineering & Medical Physics through the [Harvard-MIT Health Sciences and Technology](https://hst.mit.edu/) program, with an electrical engineering concentration at MIT. I am graduating in May 2027. I am currently seeking postdoctoral research opportunities.
 
 I am excited about bringing localization, mapping, and navigation methods from robotics into minimally invasive interventions, using pre-operative images (e.g., CT or MRI) as a prior map. By fusing this map in real time with sparse, multi-sensor observations during a procedure (e.g., 2D X-ray, a camera at the tool tip, shape sensors along the tool), these methods can help guide tools such as a bronchoscope to safely and accurately reach a peripheral lung lesion while working alongside the interventionalist physician.
 
